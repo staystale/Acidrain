@@ -12,6 +12,7 @@ class App extends React.Component {
       <div>
         <h1>Hello</h1>
         <Button variant="primary">Primary</Button>
+        <Button variant="success">Penis</Button>
       </div>
     );
   }
