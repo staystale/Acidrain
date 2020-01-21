@@ -10,7 +10,7 @@ class App extends React.Component {
   render() {
     return (
       <div>
-        <h1>HelloBillandfriends</h1>
+        <h1>Hello</h1>
         <Button variant="primary">Primary</Button>
       </div>
     );
